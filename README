@@ -1,0 +1,6 @@
+Proyecto que muestra el uso básico del componente Gallery en Android.
+
+- Declaración de una Gallery en XML y propiedades básicas.
+- Creación de un adapter para desplegar items dentro de una Gallery.
+
+Ver tutorial: http://androideity.com/2011/08/29/controles-de-seleccion-en-android-gallery/
